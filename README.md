@@ -10,7 +10,11 @@ For use this proyect feel free to clone this repository, Like that:
 git clone https://github.com/lcarcamo1526/VR-Smoke-Simulator.git
 
 ```
-then just open the folder with Unity.
+then just open the folder with Unity and find the Gameplay Scene in:
+
+```
+Assets\Nurface\VRInteraction\Demo\Gameplay
+```
 
 
 ### Prerequisites
@@ -31,9 +35,8 @@ if you only want test the game here is the APK file, make sure your have Google 
 
 ## Built With
 
-* [Unity 2018.1.3f](https://unity3d.com/) - Unity
-* [Cardboard SDK](https://vr.google.com/cardboard/) - Dependency Management
-
+* [Unity 2018.1.3f](https://unity3d.com/)
+* [Cardboard SDK](https://vr.google.com/cardboard/) 
 
 ## Authors
 
