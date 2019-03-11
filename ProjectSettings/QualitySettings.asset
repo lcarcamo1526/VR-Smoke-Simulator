@@ -9,8 +9,8 @@ QualitySettings:
   - serializedVersion: 2
     name: Very Low
     pixelLightCount: 0
-    shadows: 0
-    shadowResolution: 0
+    shadows: 1
+    shadowResolution: 1
     shadowProjection: 1
     shadowCascades: 1
     shadowDistance: 15
@@ -83,7 +83,7 @@ QualitySettings:
     name: Medium
     pixelLightCount: 1
     shadows: 1
-    shadowResolution: 0
+    shadowResolution: 1
     shadowProjection: 1
     shadowCascades: 1
     shadowDistance: 20
@@ -115,8 +115,8 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
     excludedTargetPlatforms:
     - WebGL
-    - Android
     - Standalone
+    - Android
   - serializedVersion: 2
     name: High
     pixelLightCount: 2
