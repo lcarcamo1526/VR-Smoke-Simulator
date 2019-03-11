@@ -50,6 +50,8 @@ https://youtu.be/_TPWnFNwRds
 ![VR SCREENSHOT](https://i.ibb.co/VHhfLvy/Whats-App-Image-2019-03-11-at-11-10-54-AM-2.jpg)
 ![VR SCREENSHOT](https://i.ibb.co/fvBRWqG/Whats-App-Image-2019-03-11-at-11-10-54-AM-3.jpg)
 
+## Tags
+VR ,industrial ,manufacture, production, Smog, Pollution, China, Beijing , Bogota,  Catastrophic, bad, quality, air, cigarettes, ambient damage, ambient environment, XR, Virtual Reality, Cardboard, Android, Mobile Phone.
 
 
 
