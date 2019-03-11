@@ -41,6 +41,9 @@ if you only want test the game here is the APK file, make sure your have Google 
 
 * **Luis Carcamo** - [lcarcamo1526](https://github.com/lcarcamo1526)
 
+## Showcase Video
+https://youtu.be/_TPWnFNwRds
+
 ## Screnshots
 ![VR SCREENSHOT](https://i.ibb.co/R7184wQ/Whats-App-Image-2019-03-11-at-11-10-54-AM.jpg)
 ![VR SCREENSHOT](https://i.ibb.co/w7LHK0N/Whats-App-Image-2019-03-11-at-11-10-54-AM-1.jpg)
