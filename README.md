@@ -41,10 +41,16 @@ if you only want test the game here is the APK file, make sure your have Google 
 
 * **Luis Carcamo** - [lcarcamo1526](https://github.com/lcarcamo1526)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Screnshots
+![VR SCREENSHOT](https://i.ibb.co/R7184wQ/Whats-App-Image-2019-03-11-at-11-10-54-AM.jpg)
+![VR SCREENSHOT](https://i.ibb.co/w7LHK0N/Whats-App-Image-2019-03-11-at-11-10-54-AM-1.jpg)
+![VR SCREENSHOT](https://i.ibb.co/VHhfLvy/Whats-App-Image-2019-03-11-at-11-10-54-AM-2.jpg)
+![VR SCREENSHOT](https://i.ibb.co/fvBRWqG/Whats-App-Image-2019-03-11-at-11-10-54-AM-3.jpg)
+
+
+
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
