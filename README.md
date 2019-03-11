@@ -29,9 +29,8 @@ JDK 1.8
 
 if you only want test the game here is the APK file, make sure your have Google Cardboard already installed.
 
-```
+[APK Release](https://github.com/lcarcamo1526/VR-Smoke-Simulator/releases)
 
-```
 
 ## Built With
 
